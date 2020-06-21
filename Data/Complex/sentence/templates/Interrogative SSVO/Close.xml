@@ -1,0 +1,28 @@
+Do the malls and supermarket remain closed tomorrow?
+
+<adjective_phrase>
+	<SENTENCE class="close" NO="1">
+		<EXAMPLE>Do the malls and supermarket remain closed tomorrow? | class="close"</EXAMPLE>
+	
+	<INTERROGATIVEPHRASE>
+		<INTERROGATIVEWORD class="intwords"> </INTERROGATIVEWORD>
+		
+		<SUBJECTPHRASE>
+			<SART class="article"> </SART>
+			<CNOUN1 class="noun"> </NOUN1>
+			<CONJ class="conjunction"> </CONJ>
+			<CNOUN2 class="noun"> </NOUN2>
+		</SUBJECTPHRASE>
+
+		<VERBPHRASE>
+			<AUXVERB class="auxilliary"> </AUXVERB>
+			<VERB class="verbs" tense="past"> <VERB>
+		</VERBPHRASE>
+
+		<OBJECTPHRASE>
+			<OBJECT class="day"> </OBJECT>
+		</OBJECTPHRASE>
+	</INTERROGATIVEPHRASE>
+	
+	</SENTENCE>
+</adjective_phrase>

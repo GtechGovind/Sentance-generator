@@ -1,0 +1,25 @@
+<interrogative>
+	<SENTENCE class="eat" NO="1">
+		<EXAMPLE>What did Bob and James eat from the fridge? |class="eat"</EXAMPLE>
+
+		<PREFIX>What</PREFIX>
+
+		<SUBJECTPHRASE>
+			<VERB class="do" TENSE="past"> </VERB>
+			<SNOUN1 class="name"> </SNOUN1>
+			<CONJUNCTION class="compulsory"> </CONJUNCTION>
+			<SNOUN2 class="name"> </SNOUN2>
+ 		</SUBJECTPHRASE>
+
+		<VERBPHRASE>
+			<VERB class="eatablepresent" > </VERB>
+		</VERBPHRASE>
+
+		<OBJECTPHRASE>
+			<PREPOSITION class="prep"> </PREPOSITION>
+			<ARTICLE > </ARTICLE>
+			<CNOUN class="ep"> </CNOUN>
+		</OBJECTPHRASE>
+
+	</SENTENCE>
+</interrogative>

@@ -1,0 +1,17 @@
+
+<exclamatory>
+
+
+
+	<SENTENCE class="how-fly" NO="7">
+		<EXAMPLE>How swiftly the bird flew! | class="fly"</EXAMPLE>
+
+		<PREFIX>How</PREFIX>
+		<ADVERB class="movement"> </ADVERB>
+		<ARTICLE class="noun"> </ARTICLE>>
+		<CNOUN1 class="animal:fly" >  </CNOUN1>
+		<VERB class="fly">  </VERB>
+
+		</SENTENCE>
+</exclamatory>
+	

@@ -1,0 +1,19 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block title %}
+    Select Santance Type
+{% endblock %}
+
+
+{% block body %}
+    
+                <h2><strong>SENTANCE GENERATOR</strong></h2>
+
+                <div>{{statement}}</div>
+
+                <a class="btn btn-outline-light btn-lg" role="button" href="{% url selector %}" style="margin: 15px;width: 150px;">Generate</a>
+               
+            </div>
+        </section>
+{% endblock %}

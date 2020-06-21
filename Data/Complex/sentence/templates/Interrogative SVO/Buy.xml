@@ -1,0 +1,26 @@
+Did you buy the new videogame?
+
+<adjective_phrase>
+	<SENTENCE class="buy" NO="1">
+		<EXAMPLE>Did you buy the new video game? | class="buy"</EXAMPLE>
+	
+	<INTERROGATIVEPHRASE>
+		<INTERROGATIVEWORD class="intwords"> </INTERROGATIVEWORD>
+		
+		<SUBJECTPHRASE>
+			<PRONOUN class="pronoun"> </PRONOUN>
+		</SUBJECTPHRASE>
+
+		<VERBPHRASE>
+			<VERB class="verbs"> <VERB>
+		</VERBPHRASE>
+
+		<OBJECTPHRASE>
+			<OART class="article"> </OART>
+			<OADJ class="adjectives"> </OADJ>
+			<OBJECT class="readable"> </OBJECT>
+		</OBJECTPHRASE>
+	</INTERROGATIVEPHRASE>
+	
+	</SENTENCE>
+</adjective_phrase>

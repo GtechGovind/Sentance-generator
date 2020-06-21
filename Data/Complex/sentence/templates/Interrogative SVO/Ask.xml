@@ -1,0 +1,29 @@
+Did you ask your father before buying the book?
+
+<adjective_phrase>
+	<SENTENCE class="ask" NO="1">
+		<EXAMPLE>Did you ask your father before buying the book? | class="ask"</EXAMPLE>
+	
+	<INTERROGATIVEPHRASE>
+		<INTERROGATIVEWORD class="intwords"> </INTERROGATIVEWORD>
+		
+		<SUBJECTPHRASE>
+			<PRONOUN class="pronoun"> </PRONOUN>
+			<SVERB class="ask" TENSE="present"> <SVERB>
+			<PRONOUN class="pronoun"> </PRONOUN>
+			<CNOUN class="person"> </CNOUN>
+		</SUBJECTPHRASE>
+
+		<VERBPHRASE>
+			<VPREP class="preposition"> </VPREP>
+			<VERB class="verbs"> <VERB>
+		</VERBPHRASE>
+
+		<OBJECTPHRASE>
+			<OART class="article"> </OART>
+			<OBJECT class="readable"> </OBJECT>
+		</OBJECTPHRASE>
+	</INTERROGATIVEPHRASE>
+	
+	</SENTENCE>
+</adjective_phrase>

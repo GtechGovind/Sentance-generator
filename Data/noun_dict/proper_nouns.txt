@@ -1,0 +1,17 @@
+name:male:s:James:Raj:Sagar:Jainam:Navkar:Yash:Abhishek:John:Jack:Rick:Morty:Harry:Ron:
+name:female:s:Mary:Bhavi:Gunjan:Urvi:Komal:Pooja:Alice:Jill:
+country:India:France:USA:Germany:Brazil:UK:Italy:
+
+Taj Mahal:place:neutral:s;
+Qutub Minar:place:neutral:s;
+Statue of Liberty:neutral:s;
+India:place:neutral:s;
+Maharashtra:place:neutral::s;
+Mumbai:place:neutral:s;
+U.S.:place:neutral:p;
+Texas:place:neutral:s;
+Las Vegas:place:neutral:s;
+
+name_abstract:male:s:God;
+
+name_abstract:neutral:s:All Mighty;

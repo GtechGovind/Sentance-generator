@@ -1,0 +1,26 @@
+Did Alice and Bob drink milk?
+
+<adjective_phrase>
+	<SENTENCE class="drink" NO="1">
+		<EXAMPLE>Did Alice and Bob drink milk? |class="ask"</EXAMPLE>
+	
+	<INTERROGATIVEPHRASE>
+		<INTERROGATIVEWORD class="intwords"> </INTERROGATIVEWORD>
+		
+		<SUBJECTPHRASE>
+			<NOUN1 class="noun"> </NOUN1>
+			<CONJ class="conjunction"> </CONJ>
+			<NOUN2 class="noun"> </NOUN2>
+		</SUBJECTPHRASE>
+
+		<VERBPHRASE>
+			<VERB class="verbs" tense="present"> <VERB>
+		</VERBPHRASE>
+
+		<OBJECTPHRASE>
+			<OBJECT class="drinkable"> </OBJECT>
+		</OBJECTPHRASE>
+	</INTERROGATIVEPHRASE>
+	
+	</SENTENCE>
+</adjective_phrase>

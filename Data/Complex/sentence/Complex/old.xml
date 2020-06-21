@@ -1,0 +1,21 @@
+<complex>
+	<SENTENCE class="old" NO="1">
+		<EXAMPLE>Whenever John was lonely, he played with his toys. |class="old"</EXAMPLE>
+
+		<PREFIX>Inspite</PREFIX>
+
+		<CLAUSE1>
+            <VERB class="be"> </VERB>
+            <ADJECTIVE class="age"> </ADJECTIVE>>
+ 		</CLAUSE1>
+
+		<CLAUSE2>
+			<SNOUN class="name"> </SNOUN>
+            <VERB class="go"> </VERB>
+            <PREPOSITION class="purpose"> </PREPOSITION>
+            <ARTICLE> </ARTICLE>
+            <CNOUN class="exercise"> </CNOUN>
+		</CLAUSE2>
+
+	</SENTENCE>
+</complex>

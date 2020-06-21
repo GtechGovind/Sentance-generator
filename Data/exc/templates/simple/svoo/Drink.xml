@@ -1,0 +1,31 @@
+
+<simple>
+
+	<SENTENCE class="drinkable" NO="4">
+		<EXAMPLE>Mary drank juice and soup in the canteen. | class="drinkable"</EXAMPLE>
+
+		<SUBJECTPHRASE >
+				
+			<SNOUN class="name" >  </SNOUN>
+
+		</SUBJECTPHRASE>
+
+		<VERBPHRASE>
+			<VERB class="drinkable" >  </VERB>
+		</VERBPHRASE>
+
+		<OBJECTPHRASE>
+			
+			<CNOUN class="drinkable"> </CNOUN>
+			<CONJUNCTION class = "compulsory"> </CONJUNCTION>
+			<CNOUN1 class="drinkable"> </CNOUN1>
+			<PREPOSITION class="place"> </PREPOSITION>
+			<ARTICLE class="place"> </ARTICLE>
+			<CNOUN2 class="foods">  </CNOUN2>
+
+		</OBJECTPHRASE>
+		
+	</SENTENCE>
+
+</simple>
+	

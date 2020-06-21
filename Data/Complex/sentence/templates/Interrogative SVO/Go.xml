@@ -1,0 +1,24 @@
+Do you know where John went?
+
+<adjective_phrase>
+	<SENTENCE class="ask" NO="1">
+		<EXAMPLE>Do you know where John went? | class="ask"</EXAMPLE>
+	
+	<INTERROGATIVEPHRASE>
+		<INTERROGATIVEWORD class="intwords"> </INTERROGATIVEWORD>
+		
+		<SUBJECTPHRASE>
+			<PRONOUN class="pronoun"> </PRONOUN>
+			<SVERB class="know" TENSE="present"> <SVERB>
+			<INTWORD class="intowords"> </INTWORD>
+			<SNOUN class="person"> </SNOUN>
+		</SUBJECTPHRASE>
+
+		<VERBPHRASE>
+			<VERB class="verbs"> <VERB>
+		</VERBPHRASE>
+
+	</INTERROGATIVEPHRASE>
+	
+	</SENTENCE>
+</adjective_phrase>

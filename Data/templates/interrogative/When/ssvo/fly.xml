@@ -1,0 +1,24 @@
+<interrogative>
+	<SENTENCE class="fly" NO="1">
+		<EXAMPLE>When are James and John flying to Chicago? |class="fly"</EXAMPLE>
+	
+		<PREFIX>When</PREFIX>>
+		
+		<SUBJECTPHRASE>
+			<VERB class="is"> </VERB>
+			<SNOUN1 class="name"></SNOUN1>
+			<CONJUNCTION class="compulsory"> </CONJUNCTION>
+			<SNOUN2 class="name"></SNOUN2>
+ 		</SUBJECTPHRASE>
+
+		<VERBPHRASE>
+			<VERB class="fly" > </VERB>
+		</VERBPHRASE>
+
+		<OBJECTPHRASE>
+			<PREPOSITION class="place"> </PREPOSITION>
+			<NOUN class="country"> </NOUN>
+		</OBJECTPHRASE>
+	
+	</SENTENCE>
+</interrogative>

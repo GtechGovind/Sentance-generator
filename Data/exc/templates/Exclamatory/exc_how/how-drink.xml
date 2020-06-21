@@ -1,0 +1,20 @@
+
+<exclamatory>
+
+
+
+	<SENTENCE class="how-drinkable" NO="6">
+			<EXAMPLE>How greedily he drinks the juice! | class="drinkable"</EXAMPLE>
+
+			<PREFIX>How</PREFIX>
+			<ADVERB class="drinkable"> </ADVERB>
+			<PRONOUN class="tp:s" >  </PRONOUN>
+			<VERB class="drinkable">  </VERB>
+			<ARTICLE class="noun"> </ARTICLE>
+			<CNOUN class="drinkable"> </CNOUN>
+
+		</SENTENCE>
+
+
+</exclamatory>
+	

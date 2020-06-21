@@ -1,0 +1,19 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block title %}
+    Select Santance Type
+{% endblock %}
+
+
+{% block body %}
+    
+                <h2><strong>SENTANCE GENRATOR</strong></h2>
+                <a class="btn btn-outline-light btn-lg" role="button" href="{% url 'simple' %}" style="margin: 15px;width: 160px;">Simple</a>
+                <a class="btn btn-outline-light btn-lg" role="button" href="{% url 'interrogative' %}" style="margin: 15px;width: 160px;">Interrogative</a>
+                <a class="btn btn-outline-light btn-lg" role="button" href="{% url 'exclamatory' %}" style="margin: 15px;width: 160px;">Exclamatory</a>
+                <a class="btn btn-outline-light btn-lg" role="button" href="{% url 'Compound' %}" style="margin: 15px;width: 160px;">Compound</a>
+                <a class="btn btn-outline-light btn-lg" role="button" href="{% url 'Complex' %}" style="margin: 15px;width: 160px;">Complex</a>
+            </div>
+        </section>
+{% endblock %}

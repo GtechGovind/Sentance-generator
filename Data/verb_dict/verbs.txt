@@ -1,0 +1,15 @@
+askable:asked:queried:
+drinkable:drank:gulped:
+eatable:ate:devoured:munched:
+buyable:bought:purchased:
+closeable:closed:shut:locked:
+
+do:did:
+drinkablepresent:drink:
+eatablepresent:eat:
+closeablepresent:close:shut:
+is:are:
+fly:flying:
+openablepresent:open:
+buyablepresent:buy:
+move:go:

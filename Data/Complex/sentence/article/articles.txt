@@ -1,0 +1,3 @@
+aeiou:an
+bcdfghjklmnpqrstvwxyz:a
+noun:the

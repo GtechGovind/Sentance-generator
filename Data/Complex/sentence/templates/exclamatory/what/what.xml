@@ -1,0 +1,55 @@
+
+<exclamatory>
+
+	<SENTENCE class="what-positive" NO="1">
+		<EXAMPLE>What a cute puppy! | class="what-positive"</EXAMPLE>
+
+		<PREFIX>What</PREFIX>
+		<ARTICLE class="adjective"> </ARTICLE>
+		<ADJECTIVE class="wh-positive">  </ADJECTIVE>
+		<SNOUN class="*" >  </SNOUN>
+
+	</SENTENCE>
+
+	<SENTENCE class="what-negative" NO="2">
+		<EXAMPLE>What an ugly puppy! | class="what-negative"</EXAMPLE>
+
+		<PREFIX>What</PREFIX>
+		<ARTICLE class="adjective"> </ARTICLE>
+		<ADJECTIVE class="wh-negative">  </ADJECTIVE>
+		<SNOUN class="*" >  </SNOUN>
+
+	</SENTENCE>
+
+<!--	<SENTENCE class="person" NO="3">-->
+<!--		<EXAMPLE>What an intelligent young man! | class="person"</EXAMPLE>-->
+
+<!--		<PREFIX>What</PREFIX>-->
+<!--		<ARTICLE class="adjective"> </ARTICLE>-->
+<!--		<ADJECTIVE class="person">  </ADJECTIVE>-->
+<!--		<SNOUN class="person" >  </SNOUN>-->
+
+<!--	</SENTENCE>-->
+
+<!--	<SENTENCE class="animal" NO="4">-->
+<!--		<EXAMPLE>What a cute puppy! | class="animal"</EXAMPLE>-->
+
+<!--		<PREFIX>What</PREFIX>-->
+<!--		<ARTICLE class="adjective"> </ARTICLE>-->
+<!--		<ADJECTIVE class="animal">  </ADJECTIVE>-->
+<!--		<SNOUN class="animal" >  </SNOUN>-->
+
+<!--	</SENTENCE>-->
+
+<!--	<SENTENCE class="abstract" NO="5">-->
+<!--		<EXAMPLE>What an intelligent move! | class="what-abstract"</EXAMPLE>-->
+
+<!--		<PREFIX>What</PREFIX>-->
+<!--		<ARTICLE class="adjective"> </ARTICLE>-->
+<!--		<ADJECTIVE class="abstract">  </ADJECTIVE>-->
+<!--		<SNOUN class="abstract" >  </SNOUN>-->
+
+<!--	</SENTENCE>-->
+
+</exclamatory>
+	

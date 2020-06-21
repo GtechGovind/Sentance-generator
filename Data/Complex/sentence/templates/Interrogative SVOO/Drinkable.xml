@@ -1,0 +1,26 @@
+Does John drink juice or beer?
+
+<adjective_phrase>
+	<SENTENCE class="drink" NO="1">
+		<EXAMPLE>Does John want juice or beer? | class="drink"</EXAMPLE>
+	
+	<INTERROGATIVEPHRASE>
+		<INTERROGATIVEWORD class="intwords"> </INTERROGATIVEWORD>
+		
+		<SUBJECTPHRASE>
+			<NOUN class="person"> </NOUN>
+		</SUBJECTPHRASE>
+
+		<VERBPHRASE>
+			<VERB class="verbs" tense="present"> <VERB>
+		</VERBPHRASE>
+
+		<OBJECTPHRASE>
+			<OBJECT1 class="drinkable"> </OBJECT1>
+			<CONJ value="or"> </CONJ>
+			<OBJECT2 class="drinkable"> </OBJECT2>
+		</OBJECTPHRASE>
+	</INTERROGATIVEPHRASE>
+	
+	</SENTENCE>
+</adjective_phrase>

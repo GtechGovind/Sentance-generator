@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b5904fca-77b3-4056-8614-b298851c6b10" name="Default Changelist" comment="a">
+      <change beforePath="$PROJECT_DIR$/santomaker/Data/adjective_dict/adjective-exclamatory.txt" beforeDir="false" afterPath="$PROJECT_DIR$/santomaker/Data/adjective_dict/adjective-exclamatory.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/Data/adjective_dict/adjective.txt" beforeDir="false" afterPath="$PROJECT_DIR$/santomaker/Data/adjective_dict/adjective.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/Data/adverb_dict/adverb.txt" beforeDir="false" afterPath="$PROJECT_DIR$/santomaker/Data/adverb_dict/adverb.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/Data/ask-ssvo.py" beforeDir="false" afterPath="$PROJECT_DIR$/santomaker/Data/ask-ssvo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/Data/noun_dict/abstract.txt" beforeDir="false" afterPath="$PROJECT_DIR$/santomaker/Data/noun_dict/abstract.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/Data/noun_dict/collective_nouns.txt" beforeDir="false" afterPath="$PROJECT_DIR$/santomaker/Data/noun_dict/collective_nouns.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/Data/noun_dict/common_nouns.txt" beforeDir="false" afterPath="$PROJECT_DIR$/santomaker/Data/noun_dict/common_nouns.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/Data/noun_dict/pronouns.txt" beforeDir="false" afterPath="$PROJECT_DIR$/santomaker/Data/noun_dict/pronouns.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/Data/noun_dict/proper_nouns.txt" beforeDir="false" afterPath="$PROJECT_DIR$/santomaker/Data/noun_dict/proper_nouns.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/Data/python/simple/ssvo/ask-ssvo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/Data/python/simple/ssvo/buy-ssvo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/Data/python/simple/ssvo/close-ssvo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/Data/python/simple/ssvo/drink-ssvo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/Data/python/simple/ssvo/eat-ssvo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/Data/simple1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/Data/templates/Exclamatory/exc_how/how-drink.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/Data/templates/Exclamatory/exc_how/how-eat.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/Data/templates/Exclamatory/exc_how/how-fly.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/Data/templates/Exclamatory/exc_how/how-literary.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/Data/templates/Exclamatory/exc_how/how-literary1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/Data/templates/Exclamatory/exc_how/how-movement.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/Data/templates/Exclamatory/exc_how/how-movement1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/Data/templates/Exclamatory/exc_order/order-bring.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/Data/templates/Exclamatory/exc_order/order-drink.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/Data/templates/Exclamatory/exc_order/order-eat.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/Data/templates/Exclamatory/exc_order/order-open.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/Data/templates/Exclamatory/exc_order/order-pick.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/Data/templates/Exclamatory/exc_order/order-read.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/Data/templates/Exclamatory/exc_order/order-shutup.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/Data/templates/Exclamatory/exc_such/such-exclamatory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/Data/templates/Exclamatory/exc_what/what.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/Data/templates/Exclamatory/exc_wish/ms_v_o/wish-multsvo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/Data/templates/Exclamatory/exc_wish/ms_v_o/wish-ssvo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/Data/templates/Exclamatory/exc_wish/s_v_o/wish-svo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/Data/templates/interrogative/What/ssvo/drink.xml" beforeDir="false" afterPath="$PROJECT_DIR$/santomaker/Data/templates/interrogative/What/ssvo/drink.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/Data/templates/interrogative/What/ssvo/eat.xml" beforeDir="false" afterPath="$PROJECT_DIR$/santomaker/Data/templates/interrogative/What/ssvo/eat.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/Data/templates/interrogative/What/svo/drink.xml" beforeDir="false" afterPath="$PROJECT_DIR$/santomaker/Data/templates/interrogative/What/svo/drink.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/Data/templates/interrogative/What/svo/eat.xml" beforeDir="false" afterPath="$PROJECT_DIR$/santomaker/Data/templates/interrogative/What/svo/eat.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/Data/templates/interrogative/What/svoo/drink.xml" beforeDir="false" afterPath="$PROJECT_DIR$/santomaker/Data/templates/interrogative/What/svoo/drink.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/Data/templates/interrogative/What/svoo/eat.xml" beforeDir="false" afterPath="$PROJECT_DIR$/santomaker/Data/templates/interrogative/What/svoo/eat.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/Data/templates/interrogative/When/When SVOO/close.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/Data/templates/interrogative/When/When SVOO/fly.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/Data/templates/interrogative/When/When SVOO/go.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/Data/templates/interrogative/When/When SVOO/open.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/Data/templates/interrogative/When/When SVOO/see.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/Data/templates/simple/ssvo/Open.xml" beforeDir="false" afterPath="$PROJECT_DIR$/santomaker/Data/templates/simple/ssvo/Open.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/Data/templates/simple/svo/Ask.xml" beforeDir="false" afterPath="$PROJECT_DIR$/santomaker/Data/templates/simple/svo/Ask.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/Data/templates/simple/svoo/Ask.xml" beforeDir="false" afterPath="$PROJECT_DIR$/santomaker/Data/templates/simple/svoo/Ask.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/Data/verb_dict/verbs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/santomaker/Data/verb_dict/verbs.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/Templates/Exclamatory/exclamatoray_button_wish.html" beforeDir="false" afterPath="$PROJECT_DIR$/santomaker/Templates/Exclamatory/exclamatoray_button_wish.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/Templates/Exclamatory/exclamatory.html" beforeDir="false" afterPath="$PROJECT_DIR$/santomaker/Templates/Exclamatory/exclamatory.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/Templates/Exclamatory/exclamatory_buttons.html" beforeDir="false" afterPath="$PROJECT_DIR$/santomaker/Templates/Exclamatory/exclamatory_buttons.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/Templates/Exclamatory/exclamatry_button_order.html" beforeDir="false" afterPath="$PROJECT_DIR$/santomaker/Templates/Exclamatory/exclamatry_button_order.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/Templates/Home.html" beforeDir="false" afterPath="$PROJECT_DIR$/santomaker/Templates/Home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/Templates/Interrogative/interrogative_type.html" beforeDir="false" afterPath="$PROJECT_DIR$/santomaker/Templates/Interrogative/interrogative_type.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/Templates/Interrogative/ms_v_o.html" beforeDir="false" afterPath="$PROJECT_DIR$/santomaker/Templates/Interrogative/ms_v_o.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/Templates/Interrogative/normal.html" beforeDir="false" afterPath="$PROJECT_DIR$/santomaker/Templates/Interrogative/normal.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/Templates/Interrogative/s_v_mo.html" beforeDir="false" afterPath="$PROJECT_DIR$/santomaker/Templates/Interrogative/s_v_mo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/Templates/Interrogative/sentance_type.html" beforeDir="false" afterPath="$PROJECT_DIR$/santomaker/Templates/Interrogative/sentance_type.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/Templates/Interrogative/word_type.html" beforeDir="false" afterPath="$PROJECT_DIR$/santomaker/Templates/Interrogative/word_type.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/Templates/Simple/ms_v_o.html" beforeDir="false" afterPath="$PROJECT_DIR$/santomaker/Templates/Simple/ms_v_o.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/Templates/Simple/s_v_mo.html" beforeDir="false" afterPath="$PROJECT_DIR$/santomaker/Templates/Simple/s_v_mo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/Templates/Simple/s_v_o.html" beforeDir="false" afterPath="$PROJECT_DIR$/santomaker/Templates/Simple/s_v_o.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/Templates/Simple/simple.html" beforeDir="false" afterPath="$PROJECT_DIR$/santomaker/Templates/Simple/simple.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/Templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/santomaker/Templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/Templates/result.html" beforeDir="false" afterPath="$PROJECT_DIR$/santomaker/Templates/result.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/generator/exclamatory_how_fun.py" beforeDir="false" afterPath="$PROJECT_DIR$/santomaker/generator/exclamatory_how_fun.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/generator/exclamatory_order_fun.py" beforeDir="false" afterPath="$PROJECT_DIR$/santomaker/generator/exclamatory_order_fun.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/generator/exclamatory_such_fun.py" beforeDir="false" afterPath="$PROJECT_DIR$/santomaker/generator/exclamatory_such_fun.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/generator/exclamatory_what_fun.py" beforeDir="false" afterPath="$PROJECT_DIR$/santomaker/generator/exclamatory_what_fun.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/generator/exclamatory_wish_fun.py" beforeDir="false" afterPath="$PROJECT_DIR$/santomaker/generator/exclamatory_wish_fun.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/generator/interrogative_ms_v_o.py" beforeDir="false" afterPath="$PROJECT_DIR$/santomaker/generator/interrogative_ms_v_o.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/generator/interrogative_s_v_o.py" beforeDir="false" afterPath="$PROJECT_DIR$/santomaker/generator/interrogative_s_v_o.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/generator/simple_ms_v_o.py" beforeDir="false" afterPath="$PROJECT_DIR$/santomaker/generator/simple_ms_v_o.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/generator/simple_s_v_mo.py" beforeDir="false" afterPath="$PROJECT_DIR$/santomaker/generator/simple_s_v_mo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/generator/simple_s_v_o.py" beforeDir="false" afterPath="$PROJECT_DIR$/santomaker/generator/simple_s_v_o.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/order-pick.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/santomaker/static/img/tech/image4.jpg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/santomaker" />
+  </component>
+  <component name="ProjectId" id="1bJpna85H6BGYa1ZwRPlOGO4M59" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/santomaker/Data" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="B:\fyp\code\sentence\santomaker\Data" />
+      <recent name="B:\fyp\code\sentence\santomaker\generator" />
+      <recent name="B:\fyp\code\sentence\santomaker" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.bought">
+    <configuration name="bought" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="sentence" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/templates/compound" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/templates/compound/bought.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="drink-ssvo (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="sentence" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/santomaker/Data" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/santomaker/Data/drink-ssvo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="drink-svo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="sentence" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/templates/What/What_SVO" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/templates/What/What_SVO/drink-svo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="movie" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="sentence" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/templates/complex/although" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/templates/complex/although/movie.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="play" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="sentence" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/templates/complex/whenever" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/templates/complex/whenever/play.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python">
+      <module name="sentence" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/templates" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/templates/What/What_SSVO/drink-ssvo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.run" />
+      <item itemvalue="Python.drink-ssvo (1)" />
+      <item itemvalue="Python.drink-svo" />
+      <item itemvalue="Python.movie" />
+      <item itemvalue="Python.play" />
+      <item itemvalue="Python.bought" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.bought" />
+        <item itemvalue="Python.movie" />
+        <item itemvalue="Python.play" />
+        <item itemvalue="Python.drink-svo" />
+        <item itemvalue="Python.drink-ssvo (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5904fca-77b3-4056-8614-b298851c6b10" name="Default Changelist" comment="" />
+      <created>1588360218758</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588360218758</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="a" />
+    <option name="LAST_COMMIT_MESSAGE" value="a" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Inspections" timestamp="1588590807143">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1588590807143" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588604334073">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1588604334073" />
+    <state x="0" y="0" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588675216661">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="0" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1588675216661" />
+    <state x="372" y="9" width="791" height="533" key="CommitChangelistDialog2" timestamp="1588604308108">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="372" y="9" width="791" height="533" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1588604308108" />
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1588362897539">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1588362897539" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1588363618399">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1588363618399" />
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1592030137232">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592030137232" />
+    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1592030137232">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1592030137232" />
+    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1592030137232">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1592030137232" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1592030137232">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1592030137232" />
+    <state width="1515" height="261" key="GridCell.Tab.1.bottom" timestamp="1588695994227">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588695994227" />
+    <state width="1515" height="261" key="GridCell.Tab.1.center" timestamp="1588695994227">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1588695994227" />
+    <state width="1515" height="261" key="GridCell.Tab.1.left" timestamp="1588695994227">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1588695994227" />
+    <state width="1515" height="261" key="GridCell.Tab.1.right" timestamp="1588695994227">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1588695994227" />
+    <state x="277" y="55" key="SettingsEditor" timestamp="1588750847628">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1588750847628" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1591962091398">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1591962091398" />
+    <state x="425" y="66" width="670" height="676" key="search.everywhere.popup" timestamp="1591770684432">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="66" width="670" height="676" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1591770684432" />
+  </component>
+</project>

@@ -1,0 +1,24 @@
+<interrogative>
+	<SENTENCE class="go" NO="1">
+		<EXAMPLE>Where did Alice and Mary go after dinner? |class="go"</EXAMPLE>
+	
+		<PREFIX>Where</PREFIX>
+		
+		<SUBJECTPHRASE>
+			<VERB class="do" tense="past"></VERB>
+			<SNOUN1 class="name"> </SNOUN1>
+			<CONJUNCTION class="compulsory"> </CONJUNCTION>
+			<SNOUN2 class="name"> </SNOUN2>
+ 		</SUBJECTPHRASE>
+
+		<VERBPHRASE>
+			<VERB class="move"> </VERB>
+		</VERBPHRASE>
+		
+		<OBJECTPHRASE>
+			<PREPOSITION class="timeofeating"> </PREPOSITION>
+			<CNOUN class="timeofeating"> </CNOUN>
+		</OBJECTPHRASE>
+	
+	</SENTENCE>
+</interrogative>

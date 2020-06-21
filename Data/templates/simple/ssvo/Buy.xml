@@ -1,0 +1,30 @@
+
+<simple>
+	<SENTENCE class="buyable" NO="22">
+		<EXAMPLE> John and Mary bought clothes from the mall. | class="buyable"</EXAMPLE>
+
+		<SUBJECTPHRASE>
+				
+			<SNOUN1 class="name" >  </SNOUN1>
+			<CONJUNCTION class = "compulsory"> </CONJUNCTION>
+			<SNOUN2 class="name" >  </SNOUN2>
+
+		</SUBJECTPHRASE>
+
+		<VERBPHRASE>
+			<VERB class="buyable">  </VERB>
+		</VERBPHRASE>
+
+		<OBJECTPHRASE>
+			
+			<CNOUN class="buyable"> </CNOUN>
+			<PREPOSITION class="place"> </PREPOSITION>
+			<ARTICLE class="place"> </ARTICLE>
+			<CNOUN1 class="shopping">  </CNOUN1>
+
+		</OBJECTPHRASE>
+		
+	</SENTENCE>
+
+</simple>
+	

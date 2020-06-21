@@ -1,0 +1,22 @@
+<complex>
+	<SENTENCE class="watch" NO="1">
+		<EXAMPLE>Although the movie was long, it was still enjoyable. |class="drink"</EXAMPLE>
+
+		<PREFIX>Although</PREFIX>
+
+		<CLAUSE1>
+			<ARTICLE> </ARTICLE>
+            <NOUN class="watch"> </NOUN>>
+            <VERB class="duration"> </VERB>
+            <ADJECTIVE class="duration"> </ADJECTIVE>>
+ 		</CLAUSE1>
+
+		<CLAUSE2>
+			<NOUN class="refer"> </NOUN>
+            <VERB class="duration"> </VERB>
+            <ADVERB class="continue"> </ADVERB>
+            <ADJECTIVE class="enjoy"> </ADJECTIVE>
+		</CLAUSE2>
+
+	</SENTENCE>
+</complex>

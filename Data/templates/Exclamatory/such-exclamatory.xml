@@ -1,0 +1,17 @@
+
+<exclamatory>
+
+	<SENTENCE class="such" NO="1">
+		<EXAMPLE>Eww, such an ugly face! | class="such-exclamatory"</EXAMPLE>
+
+
+		<PREFIX class="such-exclamatory">  </PREFIX>
+		<EXPRESSION>such</EXPRESSION>
+		<ARTICLE class="adjective"> </ARTICLE>
+		<ADJECTIVE class=""> </ADJECTIVE>
+		<NOUN class="thing" >  </NOUN>
+
+	</SENTENCE>
+
+</exclamatory>
+	

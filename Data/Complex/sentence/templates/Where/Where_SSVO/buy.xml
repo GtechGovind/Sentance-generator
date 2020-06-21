@@ -1,0 +1,24 @@
+<interrogative>
+	<SENTENCE class="buy" NO="1">
+		<EXAMPLE>Where did Jack and James buy that lamp? |class="buy"</EXAMPLE>
+	
+		<PREFIX>Where</PREFIX>
+		
+		<SUBJECTPHRASE>
+			<VERB class="do" tense="past"> </VERB>
+			<SNOUN1 class="name"> </SNOUN1>
+			<CONJUNCTION class="compulsory"> </CONJUNCTION>
+			<SNOUN2 class="name"> </SNOUN2>
+ 		</SUBJECTPHRASE>
+
+		<VERBPHRASE>
+			<VERB class="buyablepresent"> </VERB>
+		</VERBPHRASE>
+		
+		<OBJECTPHRASE>
+			<ADJECTIVE class="particular" > </ADJECTIVE>
+			<CNOUN class="things"> </CNOUN>
+		</OBJECTPHRASE>
+	
+	</SENTENCE>
+</interrogative>

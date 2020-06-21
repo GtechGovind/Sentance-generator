@@ -1,0 +1,15 @@
+do:did:
+drinkablepresent:drink:
+eatablepresent:eat:
+closeablepresent:close:shut:
+is:are:
+fly:flying:
+openablepresent:open:
+buyablepresent:buy:
+move:go:
+duration:was:
+play:played:
+buy:bought:
+study:studied:
+be:being:
+go:went:

@@ -1,0 +1,23 @@
+<compound>
+	<SENTENCE class="bought" NO="1">
+		<EXAMPLE>Mary went to the market and she bought some fruits. |class="bought"</EXAMPLE>
+
+		<CLAUSE1>
+            <SNOUN class="name"> </SNOUN>
+            <VERB class="move"> </VERB>
+            <PREPOSITION class="place"> </PREPOSITION>
+            <ARTICLE> </ARTICLE>
+            <CNOUN class="shopping"> </CNOUN>
+ 		</CLAUSE1>
+
+        <CONJUNCTION class="compulsory"> </CONJUNCTION>
+
+		<CLAUSE2>
+			<PRONOUN class="male"> </PRONOUN>
+            <VERB class="buy"> </VERB>
+            <ADJECTIVE class="little"> </ADJECTIVE>
+            <CNOUN class="eatable"> </CNOUN>
+		</CLAUSE2>
+
+	</SENTENCE>
+</compound>

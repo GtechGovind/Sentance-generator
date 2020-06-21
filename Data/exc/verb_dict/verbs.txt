@@ -1,0 +1,13 @@
+askable:ask:query:
+drinkable:drink:gulp:
+eatable:eat:devour:munch:
+buyable:buy:purchase:
+openable:open:
+closable:close:shut:lock:
+do:do:
+readable:read:recite:
+bring:bring:
+pick:pick:
+literary:listens:hears:recites:reads:
+movement:runs:walks:swims:crawls:
+fly:fly:soar:

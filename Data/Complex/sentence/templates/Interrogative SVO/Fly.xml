@@ -1,0 +1,29 @@
+Do you know how to fly a kite?
+
+<adjective_phrase>
+	<SENTENCE class="ask" NO="1">
+		<EXAMPLE>Do you know how to fly a kite? | class="ask"</EXAMPLE>
+	
+	<INTERROGATIVEPHRASE>
+		<INTERROGATIVEWORD class="intwords"> </INTERROGATIVEWORD>
+		
+		<SUBJECTPHRASE>
+			<PRONOUN class="pronoun"> </PRONOUN>
+			<SVERB class="ask" TENSE="present"> <SVERB>
+		</SUBJECTPHRASE>
+
+		<VERBPHRASE>
+			<AUXVERB class="auxilliary"> </AUXVERB>
+			<VPREP class="preposition"> </VPREP>
+			<VERB class="verbs"> <VERB>
+		</VERBPHRASE>
+
+		<OBJECTPHRASE>
+			<OART class="article"> </OART>
+			<OBJECT class="flyable"> </OBJECT>
+		</OBJECTPHRASE>
+
+	</INTERROGATIVEPHRASE>
+	
+	</SENTENCE>
+</adjective_phrase>

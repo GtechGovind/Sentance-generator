@@ -1,0 +1,19 @@
+
+<exclamatory>
+
+
+
+	<SENTENCE class="how-eatable" NO="5">
+		<EXAMPLE>How quickly he eats the fruits! | class="eatable"</EXAMPLE>
+
+		<PREFIX>How</PREFIX>
+		<ADVERB class="eatable"> </ADVERB>
+		<PRONOUN class="tp:s" >  </PRONOUN>
+		<VERB class="eatable">  </VERB>
+		<ARTICLE class="noun"> </ARTICLE>
+		<CNOUN class="eatable"> </CNOUN>
+
+	</SENTENCE>
+
+</exclamatory>
+	

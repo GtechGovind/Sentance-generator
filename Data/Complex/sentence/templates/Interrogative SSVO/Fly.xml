@@ -1,0 +1,28 @@
+How are Harry and Ron flying to London?
+
+<adjective_phrase>
+	<SENTENCE class="ask" NO="1">
+		<EXAMPLE>How are Harry and Ron flying to London? | class="ask"</EXAMPLE>
+	
+	<INTERROGATIVEPHRASE>
+		<INTERROGATIVEWORD class="intwords"> </INTERROGATIVEWORD>
+		
+		<SUBJECTPHRASE>
+			<SVERB class="sverb"> </SVERB>
+			<NOUN1 class="noun"> </NOUN1>
+			<CONJ class="conjunction"> </CONJ>
+			<NOUN2 class="noun"> </NOUN2>
+		</SUBJECTPHRASE>
+
+		<VERBPHRASE>
+			<VERB class="verbs" tense="present"> <VERB>
+		</VERBPHRASE>
+
+		<OBJECTPHRASE>
+			<OPREP class="preposition"> </OPREP>
+			<OBJECT class="place"> </OBJECT>
+		</OBJECTPHRASE>
+	</INTERROGATIVEPHRASE>
+	
+	</SENTENCE>
+</adjective_phrase>

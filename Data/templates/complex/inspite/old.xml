@@ -1,0 +1,22 @@
+<complex>
+	<SENTENCE class="old" NO="1">
+		<EXAMPLE>Whenever John was lonely, he played with his toys. |class="old"</EXAMPLE>
+
+		<PREFIX>Whenever</PREFIX>
+
+		<CLAUSE1>
+            <SNOUN class="name"> </SNOUN>>
+            <VERB class="is"> </VERB>
+            <ADJECTIVE class="alone"> </ADJECTIVE>>
+ 		</CLAUSE1>
+
+		<CLAUSE2>
+			<PRONOUN class="male"> </PRONOUN>
+            <VERB class="play"> </VERB>
+            <PREPOSITION class="use"> </PREPOSITION>
+            <PRONOUN class="belonging"> </PRONOUN>
+            <NOUN class="entertainment"> </NOUN>
+		</CLAUSE2>
+
+	</SENTENCE>
+</complex>

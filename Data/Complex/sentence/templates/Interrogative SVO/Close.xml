@@ -1,0 +1,28 @@
+Did you close the door before leaving?
+
+<adjective_phrase>
+	<SENTENCE class="close" NO="1">
+		<EXAMPLE>Did you close the door before leaving? | class="close"</EXAMPLE>
+	
+	<INTERROGATIVEPHRASE>
+		<INTERROGATIVEWORD class="intwords"> </INTERROGATIVEWORD>
+		
+		<SUBJECTPHRASE>
+			<PRONOUN class="pronoun"> </PRONOUN>
+			<SVERB class="close" TENSE="present"> <SVERB>
+		</SUBJECTPHRASE>
+
+		<OBJECTPHRASE>
+			<OART class="article"> </OART>
+			<OBJECT class="closeable"> </OBJECT>
+		</OBJECTPHRASE>
+
+		<VERBPHRASE>
+			<VPREP class="preposition"> </VPREP>
+			<VERB class="verbs"> <VERB>
+		</VERBPHRASE>
+		
+	</INTERROGATIVEPHRASE>
+	
+	</SENTENCE>
+</adjective_phrase>

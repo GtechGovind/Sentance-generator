@@ -1,0 +1,19 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block title %}
+    Select Santance Type
+{% endblock %}
+
+
+{% block body %}
+   
+                <h2><strong>SELECT SENTANCE TYPE</strong></h2>
+                <a class="btn btn-outline-light btn-lg" role="button" href="{% url 's_v_o_ask' %}" style="margin: 15px;width: 150px;">ASK</a>
+                <a class="btn btn-outline-light btn-lg" role="button" href="{% url 's_v_o_buy' %}" style="margin: 15px;width: 150px;">BUY</a>
+                <a class="btn btn-outline-light btn-lg" role="button" href="{% url 's_v_o_drink' %}" style="margin: 15px;width: 150px;">DRINK</a>
+                <a class="btn btn-outline-light btn-lg" role="button" href="{% url 's_v_o_close' %}" style="margin: 15px;width: 150px;">CLOSE</a>
+                <a class="btn btn-outline-light btn-lg" role="button" href="{% url 's_v_o_eat' %}" style="margin: 15px;width: 150px;">EAT</a>
+            </div>
+        </section>
+{% endblock %}

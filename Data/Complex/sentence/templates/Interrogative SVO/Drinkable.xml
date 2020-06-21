@@ -1,0 +1,29 @@
+Did you drink your medicine on time?
+
+<adjective_phrase>
+	<SENTENCE class="ask" NO="1">
+		<EXAMPLE>Did you drink your medicine on time? | class="drink"</EXAMPLE>
+	
+	<INTERROGATIVEPHRASE>
+		<INTERROGATIVEWORD class="intwords"> </INTERROGATIVEWORD>
+		
+		<SUBJECTPHRASE>
+			<PRONOUN class="pronoun"> </PRONOUN>
+			<SVERB class="drink" TENSE="present"> <SVERB>
+			<PRONOUN class="pronoun"> </PRONOUN>
+			<CNOUN class="person"> </CNOUN>
+		</SUBJECTPHRASE>
+
+		<OBJECTPHRASE>
+			<OBJECT class="drinkable"> </OBJECT>
+		</OBJECTPHRASE>
+
+		<VERBPHRASE>
+			<VPREP class="preposition"> </VPREP>
+			<VERB class="verbs"> <VERB>
+		</VERBPHRASE>
+
+	</INTERROGATIVEPHRASE>
+	
+	</SENTENCE>
+</adjective_phrase>

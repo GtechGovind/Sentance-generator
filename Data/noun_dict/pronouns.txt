@@ -1,0 +1,8 @@
+fp:you:he:she:
+
+personal_pronoun:I;
+He:
+She
+It
+We
+They

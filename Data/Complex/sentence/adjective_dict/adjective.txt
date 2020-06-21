@@ -1,0 +1,8 @@
+name:person:intelligent:
+name:person:good:
+particular:that:
+duration:long:
+enjoy:enjoyable:
+alone:lonely:
+little:some:
+age:old:

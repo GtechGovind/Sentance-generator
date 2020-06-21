@@ -1,0 +1,24 @@
+<interrogative>
+	<SENTENCE class="close" NO="1">
+		<EXAMPLE>When did Jack and Mary close the door? |class="close"</EXAMPLE>
+	
+		<PREFIX>When</PREFIX>
+		
+		<SUBJECTPHRASE>
+			<VERB class="do" tense="past"></VERB>
+			<SNOUN1 class="name"> </SNOUN1>
+			<CONJUNCTION class="compulsory"> </CONJUNCTION>
+			<SNOUN2 class="name"> </SNOUN2>
+ 		</SUBJECTPHRASE>
+
+		<VERBPHRASE>
+			<VERB class="closeablepresent" > </VERB>
+		</VERBPHRASE>
+
+		<OBJECTPHRASE>
+			<ARTICLE > </ARTICLE>
+			<CNOUN class="closable"> </CNOUN>
+		</OBJECTPHRASE>
+	
+	</SENTENCE>
+</interrogative>

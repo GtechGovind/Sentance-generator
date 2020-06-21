@@ -1,0 +1,22 @@
+<interrogative>
+	<SENTENCE class="open" NO="1">
+		<EXAMPLE>When did you open the door? |class="open"</EXAMPLE>
+
+		<PREFIX>When</PREFIX>
+
+		<SUBJECTPHRASE>
+			<VERB class="do" > </VERB>
+			<PRONOUN class="fp"> </PRONOUN>
+ 		</SUBJECTPHRASE>
+
+		<VERBPHRASE>
+			<VERB class="openablepresent"> </VERB>
+		</VERBPHRASE>
+
+		<OBJECTPHRASE>
+			<ARTICLE class="article"> </ARTICLE>
+			<CNOUN class="openable"> </CNOUN>
+		</OBJECTPHRASE>
+
+	</SENTENCE>
+</interrogative>

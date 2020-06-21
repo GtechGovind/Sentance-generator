@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block title %}
+    Select Santance Type
+{% endblock %}
+
+
+{% block body %}
+                    <h2><strong>SENTANCE GENRATOR</strong></h2>
+                <p></p>
+                <a class="btn btn-outline-light btn-lg" role="button" href="{% url 'normal' %}" style="margin: 15px;width: 265px;">NORMAL</a>
+                <a class="btn btn-outline-light btn-lg" role="button" href="{% url 'int_ms_v_o' %}" style="margin: 15px;width: 265px;">MUL SUB - VERB - OBJ</a>
+                <a class="btn btn-outline-light btn-lg" role="button" href="{% url 'int_s_v_mo' %}" style="margin: 15px;width: 265px;">SUB - VERB - MUL OBJ<br></a>
+            </div>
+        </section>
+{% endblock %}

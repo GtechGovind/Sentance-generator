@@ -1,0 +1,29 @@
+<simple>
+
+	<SENTENCE class="askable" NO="21">
+		<EXAMPLE> John and Mary asked questions in the class. | class="askable"</EXAMPLE>
+
+		<SUBJECTPHRASE>
+				
+			<SNOUN1 class="name" >  </SNOUN1>
+			<CONJUNCTION class = "compulsory"> </CONJUNCTION>
+			<SNOUN2 class="name" >  </SNOUN2>
+
+		</SUBJECTPHRASE>
+
+		<VERBPHRASE>
+			<VERB class="askable">  </VERB>
+		</VERBPHRASE>
+
+		<OBJECTPHRASE>
+			<CNOUN class="askable"> </CNOUN>
+			<PREPOSITION class="place"> </PREPOSITION>
+			<ARTICLE class="place"> </ARTICLE>
+			<CNOUN1 class="place">  </CNOUN1>
+
+		</OBJECTPHRASE>
+		
+	</SENTENCE>
+
+</simple>
+	

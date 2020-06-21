@@ -1,0 +1,30 @@
+
+<simple>
+
+	<SENTENCE class="eatable" NO="45">
+		<EXAMPLE>John ate sandwiches and burgers at the cafe. | class="eatable"</EXAMPLE>
+
+		<SUBJECTPHRASE >
+				
+			<SNOUN class="name" >  </SNOUN>
+
+		</SUBJECTPHRASE>
+
+		<VERBPHRASE>
+			<VERB class="eatable" TENSE="past">  </VERB>
+		</VERBPHRASE>
+
+		<OBJECTPHRASE>
+			<CNOUN class="eatable"> </CNOUN>
+			<CONJUNCTION class = "compulsory"> </CONJUNCTION>
+			<CNOUN1 class="eatable"> </CNOUN1>
+			<PREPOSITION class="place"> </PREPOSITION>
+			<ARTICLE class="place"> </ARTICLE>
+			<CNOUN2 class="foods">  </CNOUN2>
+
+		</OBJECTPHRASE>
+		
+	</SENTENCE>
+
+</simple>
+	

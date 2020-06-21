@@ -1,0 +1,27 @@
+Did he fly to Texas or Boston?
+
+<adjective_phrase>
+	<SENTENCE class="fly" NO="1">
+		<EXAMPLE>Did he fly to Texas or Boston? | class="fly"</EXAMPLE>
+	
+	<INTERROGATIVEPHRASE>
+		<INTERROGATIVEWORD class="intwords"> </INTERROGATIVEWORD>
+		
+		<SUBJECTPHRASE>
+			<PRONOUN class="pronoun"> </PRONOUN>
+		</SUBJECTPHRASE>
+
+		<VERBPHRASE>
+			<VERB class="verbs" tense="present"> <VERB>
+		</VERBPHRASE>
+
+		<OBJECTPHRASE>
+			<OART class="article"> </OART>
+			<OBJECT1 class="place"> </OBJECT1>
+			<CONJ value="or"> </CONJ>
+			<OBJECT2 class="place"> </OBJECT2>
+		</OBJECTPHRASE>
+	</INTERROGATIVEPHRASE>
+	
+	</SENTENCE>
+</adjective_phrase>

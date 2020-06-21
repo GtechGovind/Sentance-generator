@@ -1,0 +1,30 @@
+How much did you buy the apples and oranges for?
+
+<adjective_phrase>
+	<SENTENCE class="buy" NO="1">
+		<EXAMPLE>How much did you buy the apples and oranges for? | class="buy"</EXAMPLE>
+	
+	<INTERROGATIVEPHRASE>
+		<INTERROGATIVEWORD class="intwords"> </INTERROGATIVEWORD>
+		
+		<SUBJECTPHRASE>
+			<SADJ class="adjectives"> </SADJ> 
+			<SVERB class="sverb" tense="past"> </SVERB>
+			<PRONOUN class="pronoun"> </PRONOUN>
+		</SUBJECTPHRASE>
+
+		<VERBPHRASE>
+			<VERB class="verbs" tense="present"> <VERB>
+		</VERBPHRASE>
+
+		<OBJECTPHRASE>
+			<OART class="article"> </OART>
+			<OBJECT1 class="eatable"> </OBJECT1>
+			<CONJ value="and"> </CONJ>
+			<OBJECT2 class="eatable"> </OBJECT2>
+			<OPREP class="preposition"> </OPREP>
+		</OBJECTPHRASE>
+	</INTERROGATIVEPHRASE>
+	
+	</SENTENCE>
+</adjective_phrase>

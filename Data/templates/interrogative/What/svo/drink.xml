@@ -1,0 +1,23 @@
+<interrogative>
+	<SENTENCE class="drink" NO="1">
+		<EXAMPLE>What did Alice drink from the bar? |class="drink"</EXAMPLE>
+
+		<PREFIX>What</PREFIX>
+
+		<SUBJECTPHRASE>
+			<VERB class="do" TENSE="past"> </VERB>
+			<SNOUN class="name"> </SNOUN>
+ 		</SUBJECTPHRASE>
+
+		<VERBPHRASE>
+			<VERB class="drinkablepresent"> </VERB>
+		</VERBPHRASE>
+
+		<OBJECTPHRASE>
+			<PREPOSITION class="place"> </PREPOSITION>
+			<ARTICLE > </ARTICLE>
+			<CNOUN class="dp"> </CNOUN>
+		</OBJECTPHRASE>
+	
+		</SENTENCE>
+</interrogative>

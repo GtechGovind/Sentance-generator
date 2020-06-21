@@ -1,0 +1,31 @@
+<simple>
+
+	<SENTENCE class="closeable" NO="23">
+		<EXAMPLE> John and Mary closed the doors of the cafe. | class="closeable"</EXAMPLE>
+
+		<SUBJECTPHRASE>
+				
+			<SNOUN1 class="name" >  </SNOUN1>
+			<CONJUNCTION class = "compulsory"> </CONJUNCTION>
+			<SNOUN2 class="name" >  </SNOUN2>
+
+		</SUBJECTPHRASE>
+
+		<VERBPHRASE>
+			<VERB class="closeable" >  </VERB>
+		</VERBPHRASE>
+
+		<OBJECTPHRASE>
+			
+			<ARTICLE class="closeable"> </ARTICLE>
+			<CNOUN class="closeable"> </CNOUN>
+			<PREPOSITION class="place"> </PREPOSITION>
+			<ARTICLE1 class="place"> </ARTICLE1>
+			<CNOUN1 class="place">  </CNOUN1>
+
+		</OBJECTPHRASE>
+		
+	</SENTENCE>
+
+</simple>
+	

@@ -1,0 +1,5 @@
+name:male:James:Raj:Sagar:Jainam:Navkar:Yash:Abhishek:John:Jack:Rick:Morty:Harry:Ron:
+name:female:Mary:Bhavi:Gunjan:Urvi:Komal:Pooja:Alice:Jill:
+
+country:India:France:USA:Germany:Brazil:UK:Italy:
+

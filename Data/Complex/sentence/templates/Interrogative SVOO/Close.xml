@@ -1,0 +1,27 @@
+Did you close the doors and windows?
+
+<adjective_phrase>
+	<SENTENCE class="close" NO="1">
+		<EXAMPLE>Did you close the doors and windows? | class="close"</EXAMPLE>
+	
+	<INTERROGATIVEPHRASE>
+		<INTERROGATIVEWORD value="Did"> </INTERROGATIVEWORD>
+		
+		<SUBJECTPHRASE>
+			<PRONOUN class="pronoun"> </PRONOUN>
+		</SUBJECTPHRASE>
+
+		<VERBPHRASE>
+			<VERB class="verbs" tense="present"> <VERB>
+		</VERBPHRASE>
+
+		<OBJECTPHRASE>
+			<OART class="article"> </OART>
+			<OBJECT1 class="closable"> </OBJECT1>
+			<CONJ value="and"> </CONJ>
+			<OBJECT2 class="closable"> </OBJECT2>
+		</OBJECTPHRASE>
+	</INTERROGATIVEPHRASE>
+	
+	</SENTENCE>
+</adjective_phrase>

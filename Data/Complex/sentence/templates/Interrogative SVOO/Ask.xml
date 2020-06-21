@@ -1,0 +1,31 @@
+Did he ask his mother before buying the ball and the bat?
+
+<adjective_phrase>
+	<SENTENCE class="ask" NO="1">
+		<EXAMPLE>Did he ask his mother before buying the ball and the bat? | class="ask"</EXAMPLE>
+	
+	<INTERROGATIVEPHRASE>
+		<INTERROGATIVEWORD class="intwords"> </INTERROGATIVEWORD>
+		
+		<SUBJECTPHRASE>
+			<PRONOUN class="pronoun"> </PRONOUN>
+			<SVERB class="sverb"> </SVERB>
+			<PRONOUN class="pronoun"> </PRONOUN>
+			<CNOUN class="cnoun"> </CNOUN>
+		</SUBJECTPHRASE>
+
+		<VERBPHRASE>
+			<VPREP class="preposition"> </VPREP>
+			<VERB class="verbs"> <VERB>
+		</VERBPHRASE>
+
+		<OBJECTPHRASE>
+			<OART class="article"> </OART>
+			<OBJECT1 class="playable"> </OBJECT1>
+			<OART class="article"> </OART>
+			<OBJECT2 class="playable"> </OBJECT2>
+		</OBJECTPHRASE>
+	</INTERROGATIVEPHRASE>
+	
+	</SENTENCE>
+</adjective_phrase>

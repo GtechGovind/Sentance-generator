@@ -1,0 +1,28 @@
+Did Alice and Bob buy the same barcalounger?
+
+<adjective_phrase>
+	<SENTENCE class="buy" NO="1">
+		<EXAMPLE>Did Alice and Bob buy the same barcalounger? | class="buy"</EXAMPLE>
+	
+	<INTERROGATIVEPHRASE>
+		<INTERROGATIVEWORD class="intwords"> </INTERROGATIVEWORD>
+		
+		<SUBJECTPHRASE>
+			<NOUN1 class="noun"> </NOUN1>
+			<CONJ class="conjunction"> </CONJ>
+			<NOUN2 class="noun"> </NOUN2>
+		</SUBJECTPHRASE>
+
+		<VERBPHRASE>
+			<VERB class="verbs"> <VERB>
+		</VERBPHRASE>
+
+		<OBJECTPHRASE>
+			<OART class="article"> </OART>
+			<OADJ class="adjective"> </OADJ>
+			<OBJECT class="sittable"> </OBJECT>
+		</OBJECTPHRASE>
+	</INTERROGATIVEPHRASE>
+	
+	</SENTENCE>
+</adjective_phrase>

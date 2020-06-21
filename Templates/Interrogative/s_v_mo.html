@@ -1,0 +1,20 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block title %}
+    Select Santance Type
+{% endblock %}
+
+
+{% block body %}
+   
+                <h2><strong>SENTANCE GENRATOR</strong></h2>
+                <a class="btn btn-outline-light btn-lg" role="button" href="{% url 'interrogative_int_s_v_mo_what' %}" style="margin: 15px;width: 150px;">What</a>
+                <a class="btn btn-outline-light btn-lg" role="button" href="{% url 'interrogative_int_s_v_mo_when' %}" style="margin: 15px;width: 150px;">When</a>
+                <a class="btn btn-outline-light btn-lg" role="button" href="{% url 'interrogative_int_s_v_mo_where' %}" style="margin: 15px;width: 150px;">Where</a>
+                <a class="btn btn-outline-light btn-lg" role="button" href="#" style="margin: 15px;width: 150px;">Why</a>
+                <a class="btn btn-outline-light btn-lg" role="button" href="#" style="margin: 15px;width: 150px;">Which</a>
+                <a class="btn btn-outline-light btn-lg" role="button" href="#" style="margin: 15px;width: 150px;">How</a>
+                <a class="btn btn-outline-light btn-lg" role="button" href="#" style="margin: 15px;width: 150px;">Did</a></div>
+        </section>
+{% endblock %}

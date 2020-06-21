@@ -1,0 +1,6 @@
+verb:literary:carefully:cautiously:openly:attentively:
+verb:movement:fast:slow:quickly:
+verb:drinkable:gravely:deeply:cautiously:hastily:greedily:
+verb:eatable:cautiously:hastily:greedily:
+
+noun:quantity:some:many:a lot of:few:
